@@ -1,0 +1,14 @@
+body{
+    
+    background: url(font.jpg);
+    background-attachment: scroll;
+}
+.first-div{
+    width: 600px;
+    height: 100px;
+    background-color: red;
+}
+p{
+    width: 300px;
+    text-align: justify;
+}

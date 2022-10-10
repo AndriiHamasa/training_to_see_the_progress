@@ -3,6 +3,24 @@ body{
     background-color: #f5f7fa;
 }
 .main-body{
-    width: 1200px;
+    background-color: #fff;
+    width: 700px;
     margin: 0 auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 50px 90px;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+    
+}
+ul{
+    color: blue;
+}
+a:link, a:visited{
+    color: blue;
+    text-decoration: none;
+}
+a:hover{
+    font-weight: bold;
 }
